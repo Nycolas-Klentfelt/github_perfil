@@ -1,4 +1,4 @@
-import styles from './Perfil.module.css'
+import styles from './perfil.module.css'
 
 const Perfil = ({ nomeUsuario }) => {
     // const usuario = {
